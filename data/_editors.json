@@ -1,27 +1,37 @@
 [
     {
         "role": "owner",
-        "name": "TheDethroner, TheMoon, Jerenic",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TheDethroner (List Owner)",
+        "link": "https://www.youtube.com/@TheDethronerGD"
+    },
+    {
+        "role": "owner",
+        "name": "TheMoon (GDPS Owner)",
+        "link": "https://www.youtube.com/@TheDethronerGD"
+    },
+{
+        "role": "owner",
+        "name": "Jerenic (GDPS Owner)",
+        "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
         "role": "TheDethroner",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
         "role": "TheDethroner",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
         "role": "None",
         "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
         "role": "TheDethroner / TSL Team",
         "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@TheDethronerGD"
     }
 ]
