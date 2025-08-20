@@ -15,23 +15,28 @@
         "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
-        "role": "TheDethroner",
-        "name": "List Admin",
+        "role": "List Admin",
+        "name": "TheDethroner",
         "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
-        "role": "TheDethroner",
-        "name": "List Helper",
+        "role": "List Helper",
+        "name": "TheDethroner",
         "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
-        "role": "None",
-        "name": "Trial List Helper",
+        "role": "Trial List Helper",
+        "name": "None",
         "link": "https://www.youtube.com/@TheDethronerGD"
     },
     {
-        "role": "TheDethroner / TSL Team",
-        "name": "List Coder",
+        "role": "List Coder",
+        "name": "TheDethroner",
         "link": "https://www.youtube.com/@TheDethronerGD"
+    },
+{
+        "role": "List Coder",
+        "name": "Prometheus (original template)",
+        "link": "https://www.youtube.com/@PrometheusAlt"
     }
 ]
