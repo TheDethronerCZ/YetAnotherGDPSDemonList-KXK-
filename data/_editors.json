@@ -1,26 +1,26 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "TheDethroner, TheMoon, Jerenic",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "admin",
+        "role": "TheDethroner",
         "name": "List Admin",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "helper",
+        "role": "TheDethroner",
         "name": "List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "trial",
+        "role": "None",
         "name": "Trial List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "dev",
+        "role": "TheDethroner / TSL Team",
         "name": "List Coder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
